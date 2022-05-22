@@ -146,10 +146,11 @@ header .main-header .menu ul li a {
     border: 2px solid green;
     padding: 0px 20px;
     flex-grow: 1;
+    box-sizing: border-box;
 }
 
 .masic-inner-box-center .box-center p {
-    padding-top: 25px;
+    padding-top: 30px;
 }
 
 .masic-inner-box-center .box-right {
